@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c4d9168e884ff764cbb44f952ccace33, type: 3}
+  m_Name: Gun
+  m_EditorClassIdentifier: Assembly-CSharp::WeaponData
+  weaponId: gun
+  displayName: Gun
+  fireMode: 0
+  fireCooldown: 0.15
+  ammoPerShot: 1
+  projectilePrefab: {fileID: 8318302630405968801, guid: 89a18eb387a0ae04ba75c231fc69fa1b, type: 3}
+  muzzleVFXPrefab: {fileID: 26656413219233784, guid: 764c9cb091536e0468ec54aac1553109, type: 3}
+  shellVFXPrefab: {fileID: 6747016855219112729, guid: e794c1d0da96fc645b47d1c7f50e6a2c, type: 3}
+  magazineVFXPrefab: {fileID: 952381752953986797, guid: 08bc35961e491834f8523c8f64ab3745, type: 3}
+  magSize: 12
+  startMag: 12
+  startReserve: 24
+  reloadTime: 1
+  lockMovementDuringReload: 1
+  shootTrigger: Shoot
+  reloadTrigger: Reload
+  isReloadingBool: IsReloading
+  dryFireTrigger: DryFire

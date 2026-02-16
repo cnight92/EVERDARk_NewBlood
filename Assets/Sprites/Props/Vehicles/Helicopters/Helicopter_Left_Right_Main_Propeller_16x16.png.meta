@@ -1,0 +1,1561 @@
+fileFormatVersion: 2
+guid: 038e55b7378762e4d865850f30d86b61
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2584581156877290804
+    second: Helicopter_Left_Right_Main_Propeller_16x16_0
+  - first:
+      213: 2727627727054831139
+    second: Helicopter_Left_Right_Main_Propeller_16x16_1
+  - first:
+      213: -2175317231741253276
+    second: Helicopter_Left_Right_Main_Propeller_16x16_2
+  - first:
+      213: 3339117908525647190
+    second: Helicopter_Left_Right_Main_Propeller_16x16_3
+  - first:
+      213: -2232355281201076669
+    second: Helicopter_Left_Right_Main_Propeller_16x16_4
+  - first:
+      213: -6003730436094314884
+    second: Helicopter_Left_Right_Main_Propeller_16x16_5
+  - first:
+      213: -2958562926280527797
+    second: Helicopter_Left_Right_Main_Propeller_16x16_6
+  - first:
+      213: -927863694083317361
+    second: Helicopter_Left_Right_Main_Propeller_16x16_7
+  - first:
+      213: -2851995296412833190
+    second: Helicopter_Left_Right_Main_Propeller_16x16_8
+  - first:
+      213: -2489197218983120674
+    second: Helicopter_Left_Right_Main_Propeller_16x16_9
+  - first:
+      213: 3168536424772670227
+    second: Helicopter_Left_Right_Main_Propeller_16x16_10
+  - first:
+      213: 793330454280897541
+    second: Helicopter_Left_Right_Main_Propeller_16x16_11
+  - first:
+      213: 778761571857505009
+    second: Helicopter_Left_Right_Main_Propeller_16x16_12
+  - first:
+      213: 2774150552359186381
+    second: Helicopter_Left_Right_Main_Propeller_16x16_13
+  - first:
+      213: 4819796436778163641
+    second: Helicopter_Left_Right_Main_Propeller_16x16_14
+  - first:
+      213: 2742063863962590586
+    second: Helicopter_Left_Right_Main_Propeller_16x16_15
+  - first:
+      213: -2864402154955058054
+    second: Helicopter_Left_Right_Main_Propeller_16x16_16
+  - first:
+      213: -2787244846929506735
+    second: Helicopter_Left_Right_Main_Propeller_16x16_17
+  - first:
+      213: -2955772136023490250
+    second: Helicopter_Left_Right_Main_Propeller_16x16_18
+  - first:
+      213: -4002395129871189003
+    second: Helicopter_Left_Right_Main_Propeller_16x16_19
+  - first:
+      213: -761015641791276534
+    second: Helicopter_Left_Right_Main_Propeller_16x16_20
+  - first:
+      213: -7480279476560743607
+    second: Helicopter_Left_Right_Main_Propeller_16x16_21
+  - first:
+      213: 9142708756411186822
+    second: Helicopter_Left_Right_Main_Propeller_16x16_22
+  - first:
+      213: 6741311680249501666
+    second: Helicopter_Left_Right_Main_Propeller_16x16_23
+  - first:
+      213: 5693804325567070633
+    second: Helicopter_Left_Right_Main_Propeller_16x16_24
+  - first:
+      213: -6498855944939606690
+    second: Helicopter_Left_Right_Main_Propeller_16x16_25
+  - first:
+      213: -1744342209348178350
+    second: Helicopter_Left_Right_Main_Propeller_16x16_26
+  - first:
+      213: -7352483653289307992
+    second: Helicopter_Left_Right_Main_Propeller_16x16_27
+  - first:
+      213: -9013506437301663303
+    second: Helicopter_Left_Right_Main_Propeller_16x16_28
+  - first:
+      213: -8893220414759330099
+    second: Helicopter_Left_Right_Main_Propeller_16x16_29
+  - first:
+      213: 1223969524364189083
+    second: Helicopter_Left_Right_Main_Propeller_16x16_30
+  - first:
+      213: 2648297487107203762
+    second: Helicopter_Left_Right_Main_Propeller_16x16_31
+  - first:
+      213: 6250058912388153012
+    second: Helicopter_Left_Right_Main_Propeller_16x16_32
+  - first:
+      213: 1760092374489412146
+    second: Helicopter_Left_Right_Main_Propeller_16x16_33
+  - first:
+      213: -4018227034103864144
+    second: Helicopter_Left_Right_Main_Propeller_16x16_34
+  - first:
+      213: 7427387246199986310
+    second: Helicopter_Left_Right_Main_Propeller_16x16_35
+  - first:
+      213: -6167605587905566931
+    second: Helicopter_Left_Right_Main_Propeller_16x16_36
+  - first:
+      213: -3609917921533952376
+    second: Helicopter_Left_Right_Main_Propeller_16x16_37
+  - first:
+      213: 4829936050706684627
+    second: Helicopter_Left_Right_Main_Propeller_16x16_38
+  - first:
+      213: 7504088770975240630
+    second: Helicopter_Left_Right_Main_Propeller_16x16_39
+  - first:
+      213: -5206567093109681747
+    second: Helicopter_Left_Right_Main_Propeller_16x16_40
+  - first:
+      213: 3990237761767131264
+    second: Helicopter_Left_Right_Main_Propeller_16x16_41
+  - first:
+      213: -7260829229965225500
+    second: Helicopter_Left_Right_Main_Propeller_16x16_42
+  - first:
+      213: -669725769538162052
+    second: Helicopter_Left_Right_Main_Propeller_16x16_43
+  - first:
+      213: 7919543022754662106
+    second: Helicopter_Left_Right_Main_Propeller_16x16_44
+  - first:
+      213: -9082658320404423562
+    second: Helicopter_Left_Right_Main_Propeller_16x16_45
+  - first:
+      213: 7443122956339650081
+    second: Helicopter_Left_Right_Main_Propeller_16x16_46
+  - first:
+      213: 8126759492559740641
+    second: Helicopter_Left_Right_Main_Propeller_16x16_47
+  - first:
+      213: -5013754758400653720
+    second: Helicopter_Left_Right_Main_Propeller_16x16_48
+  - first:
+      213: 4877620148543022510
+    second: Helicopter_Left_Right_Main_Propeller_16x16_49
+  - first:
+      213: -5672778583683233033
+    second: Helicopter_Left_Right_Main_Propeller_16x16_50
+  - first:
+      213: 716344393039123155
+    second: Helicopter_Left_Right_Main_Propeller_16x16_51
+  - first:
+      213: 2831692654142203002
+    second: Helicopter_Left_Right_Main_Propeller_16x16_52
+  - first:
+      213: -5854835239768091755
+    second: Helicopter_Left_Right_Main_Propeller_16x16_53
+  - first:
+      213: 7473381846912241163
+    second: Helicopter_Left_Right_Main_Propeller_16x16_54
+  - first:
+      213: 2621680343120477012
+    second: Helicopter_Left_Right_Main_Propeller_16x16_55
+  - first:
+      213: -2265773945519400841
+    second: Helicopter_Left_Right_Main_Propeller_16x16_56
+  - first:
+      213: -2767804547077844430
+    second: Helicopter_Left_Right_Main_Propeller_16x16_57
+  - first:
+      213: 7068253351967057037
+    second: Helicopter_Left_Right_Main_Propeller_16x16_58
+  - first:
+      213: -4896335310729429361
+    second: Helicopter_Left_Right_Main_Propeller_16x16_59
+  - first:
+      213: 4488731949219753753
+    second: Helicopter_Left_Right_Main_Propeller_16x16_60
+  - first:
+      213: 5319875131244574705
+    second: Helicopter_Left_Right_Main_Propeller_16x16_61
+  - first:
+      213: -2886851067658272182
+    second: Helicopter_Left_Right_Main_Propeller_16x16_62
+  - first:
+      213: -5457307809930970626
+    second: Helicopter_Left_Right_Main_Propeller_16x16_63
+  - first:
+      213: -826172819938386631
+    second: Helicopter_Left_Right_Main_Propeller_16x16_64
+  - first:
+      213: 1626633309147609657
+    second: Helicopter_Left_Right_Main_Propeller_16x16_65
+  - first:
+      213: 572109782423700963
+    second: Helicopter_Left_Right_Main_Propeller_16x16_66
+  - first:
+      213: 2800784607566034658
+    second: Helicopter_Left_Right_Main_Propeller_16x16_67
+  - first:
+      213: 5179334548487026952
+    second: Helicopter_Left_Right_Main_Propeller_16x16_68
+  - first:
+      213: -4990013971573365597
+    second: Helicopter_Left_Right_Main_Propeller_16x16_69
+  - first:
+      213: -7944759331280848536
+    second: Helicopter_Left_Right_Main_Propeller_16x16_70
+  - first:
+      213: 2596618109997448192
+    second: Helicopter_Left_Right_Main_Propeller_16x16_71
+  - first:
+      213: -347561629875486102
+    second: Helicopter_Left_Right_Main_Propeller_16x16_72
+  - first:
+      213: -5719943779416328984
+    second: Helicopter_Left_Right_Main_Propeller_16x16_73
+  - first:
+      213: -499587537724687032
+    second: Helicopter_Left_Right_Main_Propeller_16x16_74
+  - first:
+      213: 2582845282258318681
+    second: Helicopter_Left_Right_Main_Propeller_16x16_75
+  - first:
+      213: -6040146582934188019
+    second: Helicopter_Left_Right_Main_Propeller_16x16_76
+  - first:
+      213: -7565544119145503304
+    second: Helicopter_Left_Right_Main_Propeller_16x16_77
+  - first:
+      213: -8417049877520286393
+    second: Helicopter_Left_Right_Main_Propeller_16x16_78
+  - first:
+      213: -2147313028404965394
+    second: Helicopter_Left_Right_Main_Propeller_16x16_79
+  - first:
+      213: 5842200384290948495
+    second: Helicopter_Left_Right_Main_Propeller_16x16_80
+  - first:
+      213: 1379447613243068545
+    second: Helicopter_Left_Right_Main_Propeller_16x16_81
+  - first:
+      213: -1247357040009134065
+    second: Helicopter_Left_Right_Main_Propeller_16x16_82
+  - first:
+      213: -1823899110993874872
+    second: Helicopter_Left_Right_Main_Propeller_16x16_83
+  - first:
+      213: 6864807232220748625
+    second: Helicopter_Left_Right_Main_Propeller_16x16_84
+  - first:
+      213: -320029226240486411
+    second: Helicopter_Left_Right_Main_Propeller_16x16_85
+  - first:
+      213: -1869182885742963185
+    second: Helicopter_Left_Right_Main_Propeller_16x16_86
+  - first:
+      213: 4322033044973339823
+    second: Helicopter_Left_Right_Main_Propeller_16x16_87
+  - first:
+      213: 3353101465600443960
+    second: Helicopter_Left_Right_Main_Propeller_16x16_88
+  - first:
+      213: 2784942379980636194
+    second: Helicopter_Left_Right_Main_Propeller_16x16_89
+  - first:
+      213: 3752247018413718034
+    second: Helicopter_Left_Right_Main_Propeller_16x16_90
+  - first:
+      213: -7464253091088369726
+    second: Helicopter_Left_Right_Main_Propeller_16x16_91
+  - first:
+      213: 4157371504094058124
+    second: Helicopter_Left_Right_Main_Propeller_16x16_92
+  - first:
+      213: -6835247703124064416
+    second: Helicopter_Left_Right_Main_Propeller_16x16_93
+  - first:
+      213: -2494300981783582407
+    second: Helicopter_Left_Right_Main_Propeller_16x16_94
+  - first:
+      213: 5009990493142369130
+    second: Helicopter_Left_Right_Main_Propeller_16x16_95
+  - first:
+      213: -2418987526747964964
+    second: Helicopter_Left_Right_Main_Propeller_16x16_96
+  - first:
+      213: 8981632861776534559
+    second: Helicopter_Left_Right_Main_Propeller_16x16_97
+  - first:
+      213: -6661170254340716053
+    second: Helicopter_Left_Right_Main_Propeller_16x16_98
+  - first:
+      213: 8525656840224428428
+    second: Helicopter_Left_Right_Main_Propeller_16x16_99
+  - first:
+      213: -6108052413021612067
+    second: Helicopter_Left_Right_Main_Propeller_16x16_100
+  - first:
+      213: 6265456903038314486
+    second: Helicopter_Left_Right_Main_Propeller_16x16_101
+  - first:
+      213: -8506329268469751775
+    second: Helicopter_Left_Right_Main_Propeller_16x16_102
+  - first:
+      213: -1110616932129860058
+    second: Helicopter_Left_Right_Main_Propeller_16x16_103
+  - first:
+      213: 5761678178940656252
+    second: Helicopter_Left_Right_Main_Propeller_16x16_104
+  - first:
+      213: 5519983562428054675
+    second: Helicopter_Left_Right_Main_Propeller_16x16_105
+  - first:
+      213: -8148457616016856748
+    second: Helicopter_Left_Right_Main_Propeller_16x16_106
+  - first:
+      213: 4997101722810691148
+    second: Helicopter_Left_Right_Main_Propeller_16x16_107
+  - first:
+      213: -259785915145119151
+    second: Helicopter_Left_Right_Main_Propeller_16x16_108
+  - first:
+      213: 8533278643708842535
+    second: Helicopter_Left_Right_Main_Propeller_16x16_109
+  - first:
+      213: 3056775305422969626
+    second: Helicopter_Left_Right_Main_Propeller_16x16_110
+  - first:
+      213: -81175215903485741
+    second: Helicopter_Left_Right_Main_Propeller_16x16_111
+  - first:
+      213: -7547404054756969361
+    second: Helicopter_Left_Right_Main_Propeller_16x16_112
+  - first:
+      213: 2935858289299604053
+    second: Helicopter_Left_Right_Main_Propeller_16x16_113
+  - first:
+      213: -366725904110376139
+    second: Helicopter_Left_Right_Main_Propeller_16x16_114
+  - first:
+      213: 6689260221938082302
+    second: Helicopter_Left_Right_Main_Propeller_16x16_115
+  - first:
+      213: 5654601581960660717
+    second: Helicopter_Left_Right_Main_Propeller_16x16_116
+  - first:
+      213: -767362848620615745
+    second: Helicopter_Left_Right_Main_Propeller_16x16_117
+  - first:
+      213: -182026153538463570
+    second: Helicopter_Left_Right_Main_Propeller_16x16_118
+  - first:
+      213: 5853262064032914934
+    second: Helicopter_Left_Right_Main_Propeller_16x16_119
+  - first:
+      213: -3742955947836771503
+    second: Helicopter_Left_Right_Main_Propeller_16x16_120
+  - first:
+      213: -2277899356753285814
+    second: Helicopter_Left_Right_Main_Propeller_16x16_121
+  - first:
+      213: 619547828973952060
+    second: Helicopter_Left_Right_Main_Propeller_16x16_122
+  - first:
+      213: 7334646436072561942
+    second: Helicopter_Left_Right_Main_Propeller_16x16_123
+  - first:
+      213: -2195318392280027122
+    second: Helicopter_Left_Right_Main_Propeller_16x16_124
+  - first:
+      213: -6296277706083458709
+    second: Helicopter_Left_Right_Main_Propeller_16x16_125
+  - first:
+      213: -5040462093210088871
+    second: Helicopter_Left_Right_Main_Propeller_16x16_126
+  - first:
+      213: -4483748191363140301
+    second: Helicopter_Left_Right_Main_Propeller_16x16_127
+  - first:
+      213: 47470831291060060
+    second: Helicopter_Left_Right_Main_Propeller_16x16_128
+  - first:
+      213: -2663143788190699281
+    second: Helicopter_Left_Right_Main_Propeller_16x16_129
+  - first:
+      213: -2528100207587714681
+    second: Helicopter_Left_Right_Main_Propeller_16x16_130
+  - first:
+      213: -863557886991708577
+    second: Helicopter_Left_Right_Main_Propeller_16x16_131
+  - first:
+      213: -4526918192243481584
+    second: Helicopter_Left_Right_Main_Propeller_16x16_132
+  - first:
+      213: 1146149094330541307
+    second: Helicopter_Left_Right_Main_Propeller_16x16_133
+  - first:
+      213: 8371360899028970372
+    second: Helicopter_Left_Right_Main_Propeller_16x16_134
+  - first:
+      213: 398844353535632471
+    second: Helicopter_Left_Right_Main_Propeller_16x16_135
+  - first:
+      213: -8660235647930300723
+    second: Helicopter_Left_Right_Main_Propeller_16x16_136
+  - first:
+      213: -477396988957660753
+    second: Helicopter_Left_Right_Main_Propeller_16x16_137
+  - first:
+      213: -6910886392633563644
+    second: Helicopter_Left_Right_Main_Propeller_16x16_138
+  - first:
+      213: 6596736690690809585
+    second: Helicopter_Left_Right_Main_Propeller_16x16_139
+  - first:
+      213: -6621769027893529846
+    second: Helicopter_Left_Right_Main_Propeller_16x16_140
+  - first:
+      213: 1783697742466194781
+    second: Helicopter_Left_Right_Main_Propeller_16x16_141
+  - first:
+      213: -2730463878848221991
+    second: Helicopter_Left_Right_Main_Propeller_16x16_142
+  - first:
+      213: 6249873052600172558
+    second: Helicopter_Left_Right_Main_Propeller_16x16_143
+  - first:
+      213: -8545675081830059102
+    second: Helicopter_Left_Right_Main_Propeller_16x16_144
+  - first:
+      213: -1623843812893446670
+    second: Helicopter_Left_Right_Main_Propeller_16x16_145
+  - first:
+      213: -3183169316565922538
+    second: Helicopter_Left_Right_Main_Propeller_16x16_146
+  - first:
+      213: 561982654929677889
+    second: Helicopter_Left_Right_Main_Propeller_16x16_147
+  - first:
+      213: 6054070782544256001
+    second: Helicopter_Left_Right_Main_Propeller_16x16_148
+  - first:
+      213: 8808683863749523006
+    second: Helicopter_Left_Right_Main_Propeller_16x16_149
+  - first:
+      213: -3913474370785921831
+    second: Helicopter_Left_Right_Main_Propeller_16x16_150
+  - first:
+      213: 6085808796895449047
+    second: Helicopter_Left_Right_Main_Propeller_16x16_151
+  - first:
+      213: 4131261106817971093
+    second: Helicopter_Left_Right_Main_Propeller_16x16_152
+  - first:
+      213: -1174369781127514325
+    second: Helicopter_Left_Right_Main_Propeller_16x16_153
+  - first:
+      213: 1680255604994691953
+    second: Helicopter_Left_Right_Main_Propeller_16x16_154
+  - first:
+      213: -4055248667305246247
+    second: Helicopter_Left_Right_Main_Propeller_16x16_155
+  - first:
+      213: -3176469783850515244
+    second: Helicopter_Left_Right_Main_Propeller_16x16_156
+  - first:
+      213: 5983981656881382003
+    second: Helicopter_Left_Right_Main_Propeller_16x16_157
+  - first:
+      213: -5203112419721500764
+    second: Helicopter_Left_Right_Main_Propeller_16x16_158
+  - first:
+      213: -2304212122878405574
+    second: Helicopter_Left_Right_Main_Propeller_16x16_159
+  - first:
+      213: -3950165566028526184
+    second: Helicopter_Left_Right_Main_Propeller_16x16_160
+  - first:
+      213: 6386104598302607162
+    second: Helicopter_Left_Right_Main_Propeller_16x16_161
+  - first:
+      213: 4455523976170241393
+    second: Helicopter_Left_Right_Main_Propeller_16x16_162
+  - first:
+      213: 5169646455974224579
+    second: Helicopter_Left_Right_Main_Propeller_16x16_163
+  - first:
+      213: 2085502266159175941
+    second: Helicopter_Left_Right_Main_Propeller_16x16_164
+  - first:
+      213: -4201609597546148987
+    second: Helicopter_Left_Right_Main_Propeller_16x16_165
+  - first:
+      213: 4342837066896235884
+    second: Helicopter_Left_Right_Main_Propeller_16x16_166
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: characters01_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 72
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b808b51fab1daa030800000000000000
+      internalID: 3506845860704780427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: characters01_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 48
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f14ba99742d9f28c0800000000000000
+      internalID: -4021823162233998305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: characters01_2
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 72
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 757cb5582e8595460800000000000000
+      internalID: 7230908406643279703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: characters01_3
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 48
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b490f601ef90d6630800000000000000
+      internalID: 3921801837311625547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: characters01_4
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 72
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08fbdb01938ba9e40800000000000000
+      internalID: 5664042036605337472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: characters01_5
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 48
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1bcf8f24f28e2110800000000000000
+      internalID: 1238070932855048989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: characters01_6
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 72
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecefb9121f54fa2a0800000000000000
+      internalID: -6724078816687554866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: characters01_7
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 48
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9d5e86ec85a11720800000000000000
+      internalID: 2815213266665364890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: characters01_8
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 72
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ff3f6284511d1e70800000000000000
+      internalID: 9087438677766782964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: characters01_9
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 48
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 455d69b78b394f4f0800000000000000
+      internalID: -795848813580987052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: characters01_10
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 72
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e64532a3c173aee0800000000000000
+      internalID: -1251031186424903964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: characters01_11
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 48
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bded3aee1ca2eb00800000000000000
+      internalID: 856436127932739000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: characters01_12
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 72
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdc6539cca6aa1540800000000000000
+      internalID: 4979475599051812060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: characters01_13
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 48
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69619007c95760030800000000000000
+      internalID: 3460582678435796630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: characters01_14
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 72
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57fa961b4a9228b80800000000000000
+      internalID: -8394100968137314443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: characters01_15
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 72
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1a8d6f9dcf81c5d0800000000000000
+      internalID: -3043993759819920869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: characters01_16
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 48
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e49abd09fe44a45b0800000000000000
+      internalID: -5383414608849819314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: characters01_17
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 72
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c61d6cb72cfa5c910800000000000000
+      internalID: 1857083671195341164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: characters01_18
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 72
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3f102fdb520b2630800000000000000
+      internalID: 3903216095655370554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: characters01_19
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 72
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b495ced4bda9aa60800000000000000
+      internalID: 7685865231427671217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: characters01_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 24
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62cd399be228eb030800000000000000
+      internalID: 3512387896589147174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: characters01_21
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 24
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 257eb19b7f2e38ee0800000000000000
+      internalID: -1259913917143193774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: characters01_22
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 24
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b7c5e066c8d1f720800000000000000
+      internalID: 2878319983407253430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: characters01_23
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 24
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72a42c51b3ac1ffe0800000000000000
+      internalID: -1156921274140571097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: characters01_24
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 24
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 578088aa218220e60800000000000000
+      internalID: 7926942354761058421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: characters01_25
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 24
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4db3a6385693ceeb0800000000000000
+      internalID: -4689310003840271404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: characters01_26
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 24
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c5c69aa98782f7f0800000000000000
+      internalID: -580252376635095610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: characters01_27
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 48
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 571a3320061e32ac0800000000000000
+      internalID: -3881010651393187467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: characters01_28
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 48
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 770b3352f1d492fe0800000000000000
+      internalID: -1213353828436168585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: characters01_29
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 48
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a03881d0d661b720800000000000000
+      internalID: 2860180285411569830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: characters01_30
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 48
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c87b5c410b6f8e460800000000000000
+      internalID: 7271332834512844684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: characters01_31
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a91868c006a3b950800000000000000
+      internalID: 6463692412499270055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: characters01_32
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 0
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff3ab9be675b55120800000000000000
+      internalID: 2402025498635641855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: characters01_33
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 0
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4560b1d9425566640800000000000000
+      internalID: 5072835646022420052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: characters01_34
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 0
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c839141537135eda0800000000000000
+      internalID: -5916268164127026292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: characters01_35
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 24
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73772c14a60fa7f90800000000000000
+      internalID: -6954982335359846601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: characters01_36
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 24
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 970912d7975c6ebe0800000000000000
+      internalID: -1448253104571969415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: characters01_37
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 24
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e21b6b141fbb06f0800000000000000
+      internalID: -717269622555208989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: characters01_38
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 24
+        width: 32
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82a7f83632c33db00800000000000000
+      internalID: 852090877195024936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: characters01_39
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 0
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe3d49a05c5f7acd0800000000000000
+      internalID: -2546796837619837969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: characters01_40
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 0
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d43dd74383b1d0cb0800000000000000
+      internalID: -4896227291669081267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      characters01_0: 3506845860704780427
+      characters01_1: -4021823162233998305
+      characters01_10: -1251031186424903964
+      characters01_11: 856436127932739000
+      characters01_12: 4979475599051812060
+      characters01_13: 3460582678435796630
+      characters01_14: -8394100968137314443
+      characters01_15: -3043993759819920869
+      characters01_16: -5383414608849819314
+      characters01_17: 1857083671195341164
+      characters01_18: 3903216095655370554
+      characters01_19: 7685865231427671217
+      characters01_2: 7230908406643279703
+      characters01_20: 3512387896589147174
+      characters01_21: -1259913917143193774
+      characters01_22: 2878319983407253430
+      characters01_23: -1156921274140571097
+      characters01_24: 7926942354761058421
+      characters01_25: -4689310003840271404
+      characters01_26: -580252376635095610
+      characters01_27: -3881010651393187467
+      characters01_28: -1213353828436168585
+      characters01_29: 2860180285411569830
+      characters01_3: 3921801837311625547
+      characters01_30: 7271332834512844684
+      characters01_31: 6463692412499270055
+      characters01_32: 2402025498635641855
+      characters01_33: 5072835646022420052
+      characters01_34: -5916268164127026292
+      characters01_35: -6954982335359846601
+      characters01_36: -1448253104571969415
+      characters01_37: -717269622555208989
+      characters01_38: 852090877195024936
+      characters01_39: -2546796837619837969
+      characters01_4: 5664042036605337472
+      characters01_40: -4896227291669081267
+      characters01_5: 1238070932855048989
+      characters01_6: -6724078816687554866
+      characters01_7: 2815213266665364890
+      characters01_8: 9087438677766782964
+      characters01_9: -795848813580987052
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

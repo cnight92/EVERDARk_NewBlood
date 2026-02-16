@@ -1,0 +1,20 @@
+using UnityEngine;
+
+[RequireComponent(typeof(Collider2D))]
+public class Hazard : MonoBehaviour
+{
+
+    private void Awake()
+    {
+        GetComponent<Collider2D>().isTrigger = true;
+    }
+
+    private void OnTriggerEnter2D(Collider2D other)
+    {
+        var player = other.GetComponentInParent<PlayerController2D>();
+        if (player)
+        {
+            player.TakeHit();
+        }
+    }
+}
